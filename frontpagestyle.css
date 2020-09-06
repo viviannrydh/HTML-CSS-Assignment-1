@@ -1,0 +1,27 @@
+body {
+    background-image: url("frontpage.jpg");
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: cover;
+    margin-top:0;
+}
+
+h1{
+    display:block;
+    margin-top:220px;
+    margin-left:300px;
+    color:white;
+    font-family: cursive;
+    font-size:35px;
+
+}
+
+a:link {
+    color:white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+a:hover{
+    color: lightcoral;
+}
